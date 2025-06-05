@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Raj Mishra | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #24292e;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+      background: white;
+      margin-top: 1rem;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #24292e;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      margin: 2rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Raj Mishra</h1>
+    <p>Software Engineering Student | Frontend Developer | Lifelong Learner</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I'm a motivated B.Tech Computer Science student at D.Y. Patil International University, Pune,
+      passionate about solving real-world problems through code. From building UIs to working
+      with backend operations, I enjoy seeing how technology creates real impact. Sports since
+      childhood have taught me resilience and a growth mindset that I bring into my learning and work.
+    </p>
+  </section>
+
+  <section>
+    <h2>Work Experience</h2>
+    <ul>
+      <li><strong>Amazon (CSOS CAP Specialist)</strong> – Sep 2024 to Present<br/>
+        Supporting backend customer service operations across the North America region, ensuring
+        service quality and teamwork in a global tech environment.
+      </li>
+      <li><strong>Pratham Bhartiya Sahitya NGO (Social Intern)</strong> – Jun 2024 to Jul 2025<br/>
+        Contributed to literacy and outreach initiatives, gaining a hands-on understanding of social
+        impact and empathy-driven teamwork.
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Eventify</strong> – A group event planning app built with React.js. Users can create, manage, and invite people to events, with features like RSVP tracking and reminders.</li>
+      <li><strong>Samarth Seeds Website</strong> – A full-stack website for an agricultural seed company using Node.js and Express.js, with admin dashboard and responsive design.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>D.Y. Patil International University</strong> – B.Tech in CSE (2023–2027)</li>
+      <li><strong>Techno India Group Public School</strong>, Hooghly – Junior College (2021–2023)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <ul>
+      <li>Workshop on C Programming</li>
+      <li>IIRS Certified: Remote Sensing of Soil</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Frontend:  CSS, JavaScript, React.js</li>
+      <li>Backend: Node.js, MySQL</li>
+      <li>Programming Languages: C, Java, Python</li>
+      <li>Soft Skills: Communication, Teamwork, Time Management</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:rajmishra1162@gmail.com">rajmishra1162@gmail.com</a></p>
+    <p>Phone: +91-9883863054</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/raj-mishra-7726b5216" target="_blank">LinkedIn Profile</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Raj Mishra | Built with 🧑🏻‍💻❤️
+  </footer>
+</body>
+</html>
